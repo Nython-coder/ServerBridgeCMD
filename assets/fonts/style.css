@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'MinecraftDefault-Bold';
+   font-display: swap;
+   src: url('MinecraftDefault-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'MinecraftDefault-Regular';
+   font-display: swap;
+   src: url('MinecraftDefault-Regular/font.ttf');
+}
